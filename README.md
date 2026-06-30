@@ -2,11 +2,11 @@
 CS 305 software security portfolio featuring the Artemis Financial Vulnerability Assessment Report and a reflection on secure software development practices.
 
 ## CS 305 Portfolio Reflection
-### Portfolio Artifact
+## Portfolio Artifact
 
 For my portfolio artifact, I selected the Artemis Financial Vulnerability Assessment Report. Artemis Financial is a financial services company that wanted to improve the security of its software application. The goal of the project was to identify security vulnerabilities and recommend ways to better protect the application and the customer information it stores.
 
-### Reflection
+## Reflection
 
 One thing I did well during this project was learning how to identify software security vulnerabilities and understand why secure coding is important. Before this course, I knew security was important but I did not understand how many different areas of software development it affects. This project showed me that security should be part of the development process from the beginning instead of being added at the end. Secure coding helps protect customer information and reduces security risks.
 
